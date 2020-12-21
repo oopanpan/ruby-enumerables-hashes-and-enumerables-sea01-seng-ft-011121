@@ -14,8 +14,8 @@ def select_winner(passengers)
       winner = name
     end
   }
+  winner
 end
 
-winner
 binding.pry
 puts "happy birthday"
