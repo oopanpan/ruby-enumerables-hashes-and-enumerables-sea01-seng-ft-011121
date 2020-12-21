@@ -16,6 +16,3 @@ def select_winner(passengers)
   }
   winner
 end
-
-binding.pry
-puts "happy birthday"
